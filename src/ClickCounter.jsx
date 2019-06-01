@@ -9,7 +9,7 @@ const ClickCounter = (props) => {
 
   return (
     <div>
-      <p>You clicked {count} times</p>
+      <p data-testid="click-counter-text">You clicked {count} times</p>
       <button data-testid="click-counter-button" onClick={() => setCount(count => count + 1)}>
         Click Me
       </button>
