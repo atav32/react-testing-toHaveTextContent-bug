@@ -1,3 +1,7 @@
+Reproduction of `TypeError: expect(...).toHaveTextContent is not a function`
+
+-----
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
