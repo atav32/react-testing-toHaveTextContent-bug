@@ -1,5 +1,5 @@
 {
-  "name": "airbnb-form",
+  "name": "react-testing-toHaveTextContent-bug",
   "version": "0.1.0",
   "private": true,
   "scripts": {
